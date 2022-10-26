@@ -1,5 +1,7 @@
-.body-color {
+
+.hello{
+color: brown;
+}
+.name{
 color: blue;
-background-color: azure;
-font-size: 50px;
 }
