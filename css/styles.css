@@ -1,7 +1,14 @@
-
-.hello{
-color: brown;
+body{
+margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #000;
+    background-color: #fff;
 }
-.name{
-color: blue;
+
+
+.header-styles{
+background-color: gray;
 }
